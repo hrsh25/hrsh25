@@ -1,5 +1,11 @@
 <h1>Hi, I'm Harsh 👋</h1>
-<h3>An entrepreneur by heart and a tech enthusiast by passion. I love to solve problems using modern technology. I aim to build and scale smart products to make people's lives simpler. I am a python developer and passionate about smart AIoT based products.</h3>
+<h3>An entrepreneur by heart and a tech enthusiast by passion. I love to solve problems using modern technology. I aim to build and scale smart products to make people's lives simpler. I have worked as an AI intern for Indian Army and was rewarded a medal for the smart AI based system I built.
+
+I've founded two companies:
+  1) Novarsys Tech - For Industrial Automation as well as smart security based projects and products.
+  2) Avea Media Labs - For revolutionizing the media and advertising industry through smart products and insights.
+
+Basically, I am a python developer and passionate about smart AIoT based products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrsh25&label=Profile%20views&color=0e75b6&style=flat" alt="hrsh25" /> </p>
 
