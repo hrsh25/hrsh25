@@ -1,17 +1,15 @@
 <h1>Hi, I'm Harsh 👋</h1>
-<h3 align="center">An entrepreneur by heart and a tech enthusiast by passion. I love to solve problems using modern technology. I aim to build and scale smart products to make people's lives simpler. To achieve this, I build teams, adapt to new insights, and overcome adversities.</h3>
+<h3>An entrepreneur by heart and a tech enthusiast by passion. I love to solve problems using modern technology. I aim to build and scale smart products to make people's lives simpler. I am a python developer and passionate about smart AIoT based products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrsh25&label=Profile%20views&color=0e75b6&style=flat" alt="hrsh25" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hrsh_25" target="blank"><img src="https://img.shields.io/twitter/follow/hrsh_25?logo=twitter&style=for-the-badge" alt="hrsh_25" /></a> </p>
+- 🔭 I’m currently working on **redefining the TV viewing experience through our product at Avea Media Labs**
 
-- 🔭 I’m currently working on **my own product at Avea Media Labs**
-
-- 🌱 I’m currently learning **React, Tensorflow**
+- 🤓 I’m currently learning **React, Tensorflow**
 
 - 💬 Contact me to discuss **Emerging Tech, Automation Ideas, Product Development**
 
-- 📫 How to reach me **hrshvora25@gmail.com**
+- 📫 Reach me at **hrshvora25@gmail.com**
 
 - ⚡ Fun fact **I love reading books, listening to music, and traveling**
 
