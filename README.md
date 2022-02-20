@@ -1,5 +1,5 @@
 <h1>Hi, I'm Harsh 👋</h1>
-<h3>An entrepreneur by heart and a tech enthusiast by passion. I love to solve problems using modern technology. I aim to build and scale smart products to make people's lives simpler. I have worked as an AI intern for Indian Army and was rewarded a medal for the smart AI based system I built.
+<h3>An entrepreneur by heart and a tech enthusiast by passion. I love to solve problems using modern technology. I aim to build and scale smart products to make people's lives simpler. I have worked as an AI intern for Indian Army and was rewarded a medal for the smart AI based system I built. Currently, I'm pursuing my Masters in Computer Science at Northeastern University, Boston.
 
 I've founded two companies:
   1) Novarsys Tech - For Industrial Automation as well as smart security based projects and products.
