@@ -1,28 +1,40 @@
-<h1>Hi, I'm Harsh 👋</h1>
-<h3>An entrepreneur by heart and a tech enthusiast by passion. I love to solve problems using modern technology. I aim to build and scale smart products to simplify people's lives. I have worked as an AI intern for the Indian Army and was rewarded a medal for the smart AI-based system I built. I'm pursuing my Masters in Computer Science at Northeastern University, Boston.
+# Hi, I'm Harsh 👋
 
-I am a founder of **Avea Media Labs** for revolutionizing the media and advertising industry through smart products and insights.
+**Software Engineer at Valon · Former Tech Lead at Finally · Builder at heart**
 
-I am a Python developer and passionate about smart AIoT-based products.</h3>
+I build software at the intersection of **applied AI, financial technology, and automation**. I enjoy turning complicated workflows into useful, dependable products — from AI-assisted financial operations to developer tools.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrsh25&label=Profile%20views&color=0e75b6&style=flat" alt="hrsh25" /> </p>
+Based in the NYC metro area. MS in Computer Science from Northeastern University.
 
-- 🔭 I’m currently working on **redefining the TV viewing experience through our product at Avea Media Labs**
+## What I've worked on
 
-- 🤓 I’m currently learning **Kafka, React**
+- **Valon — Software Engineer:** Building software for mortgage servicing and financial workflows, with an emphasis on reliable, scalable systems.
+- **Finally — Former Tech Lead:** Worked on AI-powered bookkeeping automation, financial integrations, and products that make complex accounting workflows simpler.
+- **Avea Media Labs — Co-founder:** Led a small team developing real-time analytics products, taking an idea through an early working prototype.
 
-- 💬 Contact me to discuss **Emerging Tech, Automation Ideas, Product Development**
+## What interests me
 
-- 📫 Reach me at **hrshvora25@gmail.com**
+- **Applied AI:** LLM-powered workflows, retrieval, and practical automation
+- **Fintech engineering:** Reliable systems for complex, high-stakes financial operations
+- **Open source & developer productivity:** Local-first AI, knowledge tools, and making useful software easier to build
 
-- ⚡ Fun fact **I love reading books, listening to music, and traveling**
+## Selected projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hrsh_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hrsh_25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hrshvora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hrshvora" height="30" width="40" /></a>
-<a href="https://instagram.com/hrshvora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hrshvora" height="30" width="40" /></a>
-</p>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [General Purpose Accounting System](https://github.com/hrsh25/gpa_system) | Full-stack app for accounts and transaction management | Django REST Framework, React, PostgreSQL |
+| [Receipt Processing API](https://github.com/hrsh25/Fetch-OA) | REST API to process receipts and calculate points | FastAPI, Python, Docker |
+| [AI-based Job Application Portal](https://github.com/hrsh25/AI-based-job-application-portal) | Resume parsing, skill matching, and candidate-response evaluation | Python, Django, NLP |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Tools I've worked with:** Python · JavaScript · React · Django · FastAPI · PostgreSQL · Docker · Git
+
+## Community
+
+- **AIIM Global Summit 2027:** Proposal reviewer
+- **Founder Institute:** Selected as a reviewer
+
+Outside of code, you'll usually find me exploring a new product idea, dialing in an espresso, or planning a trip.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/hrshvora/) · [Email](mailto:hrshvora25@gmail.com) · [GitHub](https://github.com/hrsh25)
